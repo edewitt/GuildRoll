@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: GuildRoll
+## Notes: Create random rolls in guild chat.
+## Author: Azshliar
+## Version: v0.1
+
+
+GuildRoll.lua
